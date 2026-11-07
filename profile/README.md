@@ -29,14 +29,6 @@ $ sudo get_flag
 4Ray{y0u_sh0uld_h4v3_kn0wn_b3tt3r}
 ```
 
-## What we play
-
-| | |
-|---|---|
-| 🧩 **Jeopardy** | web, pwn, rev, crypto, forensics — whatever the board throws at us |
-| ⚔️ **Attack-Defense** | keep our services alive, keep everyone else's flags flowing |
-| 🛡️ **Cyberbattle** | full-scale cyber exercises, red vs blue, real infrastructure |
-
 ---
 
 <div align="center">
